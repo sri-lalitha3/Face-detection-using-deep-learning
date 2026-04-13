@@ -108,4 +108,6 @@ Google Colab does not support `cv2.VideoCapture(0)` directly. Instead, this proj
 - Improve with a deep learning based detector like MTCNN for higher accuracy
 
 ---
+## About
 
+**Varanasi Gayathri Vijaya Sri Lalitha**
